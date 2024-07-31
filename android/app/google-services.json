@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379877617885",
+    "project_id": "familymedicine-ef41c",
+    "storage_bucket": "familymedicine-ef41c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379877617885:android:9438b7edf0d026c1636b34",
+        "android_client_info": {
+          "package_name": "com.example.family_medicine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3wu3F8kD4d4IOqhwVr7FAypiKjPxprvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
